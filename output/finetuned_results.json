@@ -1,0 +1,12 @@
+{
+  "To which Public Authority can I file a request through this portal?": "You can file a request to any Central Public Authority which is located in New Delhi, Delhi NCR, Haryana, Uttar Pradesh, Punjab, Himachal Pradesh, Jammu & Kashmir, and Ladakh. If the Public Authority is located in any other State/UT, then the RTI application can be filed through the State/UT RTI Online Portal.",
+  "How do I make the payment for RTI fee?": "You can make the payment through credit/debit card, net banking or UPI.",
+  "What happens if I select a wrong Public Authority?": "In such cases, the RTI application will be transferred to the correct Public Authority.",
+  "Do I get any receipt for online filing of RTI application?": "Yes, an RTI application filed online is assigned a unique registration number and an email is sent to the applicant with the registration number and other details. The applicant can also check the status of his/her RTI application by entering the registration number.",
+  "What should I do if I forgot my login credentials?": "In case you have forgotten your username or password, you can click on \"Forgot Username/Password\" link on the RTI Online Portal and follow the instructions therein to retrieve your username/password.",
+  "Can I file RTI application for state public authorities through this portal?": "No, this portal is only for Central Public Authorities.",
+  "How much time does RTI request retain at this portal?": "The RTI request is retained at this portal for a period of 3 years.",
+  "Why is OTP feature introduced in view status option?": "OTP feature is introduced to ensure the security of the requestor's personal information.",
+  "What are the reasons for RTI payment failing?": "The reasons for RTI payment failing are:\n\n1. Insufficient balance in the bank account.\n2. Incorrect bank account details.\n3. Internet connectivity issues.\n4. Technical issues with the payment gateway.",
+  "Do I need to make any payment for filing an appeal?": "No, there is no fee for filing an appeal."
+}
